@@ -1,0 +1,5 @@
+baseURL = 'https://scripts.r00ting.net'
+languageCode = 'en-us'
+title = 'Scam call transcripts'
+theme = "archie"
+copyright = "© LeakIX"
